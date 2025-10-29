@@ -1,4 +1,6 @@
-* e312912 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 8d7c4dd (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* de7e3bb docs: Add final project artifacts
+* e312912 docs: Add changelog
 | * 77daf1d (feature/another-feature) Bad commit
 | * 0e7ba75 (origin/feature/another-feature) feat: Add test feature
 |/  
