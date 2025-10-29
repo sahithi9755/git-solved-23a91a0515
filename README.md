@@ -37,3 +37,4 @@ export DEPLOY_ENV=production
 ./scripts/deploy.sh
 export NODE_ENV=development"## FAQ" 
 "## FAQ" 
+"update" 
